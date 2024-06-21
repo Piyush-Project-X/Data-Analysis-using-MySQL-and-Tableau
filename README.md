@@ -61,4 +61,3 @@ This project showcases the power of combining MySQL for data processing and Tabl
 
 ---
 
-*Initial exploration involves selecting all columns and ordering the data to identify patterns and anomalies.*
